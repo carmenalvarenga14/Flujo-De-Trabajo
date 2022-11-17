@@ -26,3 +26,16 @@ header nav ul li a{
     text-align: center;
     padding: 8%;
 }
+.caja1{
+    margin: 5%;
+}
+.caja2{
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+.caja3{
+    display: flex;
+    flex-direction: column;
+}
