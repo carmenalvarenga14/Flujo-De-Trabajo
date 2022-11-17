@@ -20,3 +20,9 @@ header nav ul li a{
     text-decoration: none;
     color: black;
 }
+.caja{
+    border: 1px solid black;
+    margin: 7%;
+    text-align: center;
+    padding: 8%;
+}
